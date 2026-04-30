@@ -1,0 +1,216 @@
+{
+  "_ingestion_metadata": {
+    "ingested_at": "2024-01-15T10:30:00Z",
+    "source": "https://free-api-live-football-data.p.rapidapi.com/football-get-team-players",
+    "team_id": 8633
+  },
+  "status": "success",
+  "response": {
+    "list": {
+      "squad": [
+        {
+          "type": "Goalkeepers",
+          "members": [
+            {
+              "id": 101,
+              "name": "Thibaut Courtois",
+              "age": 31,
+              "nationality": "Belgium",
+              "position": "Goalkeeper",
+              "stats": {
+                "goals": 0,
+                "assists": 0,
+                "appearances": 28,
+                "transfer_value": 40000000.0
+              }
+            },
+            {
+              "id": 102,
+              "name": "Andriy Lunin",
+              "age": 24,
+              "nationality": "Ukraine",
+              "position": "Goalkeeper",
+              "stats": {
+                "goals": 0,
+                "assists": 0,
+                "appearances": 10,
+                "transfer_value": 15000000.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "Defenders",
+          "members": [
+            {
+              "id": 201,
+              "name": "Dani Carvajal",
+              "age": 32,
+              "nationality": "Spain",
+              "position": "Right Back",
+              "stats": {
+                "goals": 2,
+                "assists": 5,
+                "appearances": 30,
+                "transfer_value": 25000000.0
+              }
+            },
+            {
+              "id": 202,
+              "name": "Éder Militão",
+              "age": 25,
+              "nationality": "Brazil",
+              "position": "Centre Back",
+              "stats": {
+                "goals": 1,
+                "assists": 0,
+                "appearances": 15,
+                "transfer_value": 70000000.0
+              }
+            },
+            {
+              "id": 203,
+              "name": "Antonio Rüdiger",
+              "age": 31,
+              "nationality": "Germany",
+              "position": "Centre Back",
+              "stats": {
+                "goals": 2,
+                "assists": 1,
+                "appearances": 33,
+                "transfer_value": 35000000.0
+              }
+            },
+            {
+              "id": 204,
+              "name": "Ferland Mendy",
+              "age": 29,
+              "nationality": "France",
+              "position": "Left Back",
+              "stats": {
+                "goals": 0,
+                "assists": 3,
+                "appearances": 22,
+                "transfer_value": 30000000.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "Midfielders",
+          "members": [
+            {
+              "id": 301,
+              "name": "Luka Modrić",
+              "age": 38,
+              "nationality": "Croatia",
+              "position": "Central Midfield",
+              "stats": {
+                "goals": 3,
+                "assists": 7,
+                "appearances": 35,
+                "transfer_value": 8000000.0
+              }
+            },
+            {
+              "id": 302,
+              "name": "Toni Kroos",
+              "age": 34,
+              "nationality": "Germany",
+              "position": "Central Midfield",
+              "stats": {
+                "goals": 4,
+                "assists": 11,
+                "appearances": 38,
+                "transfer_value": 10000000.0
+              }
+            },
+            {
+              "id": 303,
+              "name": "Federico Valverde",
+              "age": 25,
+              "nationality": "Uruguay",
+              "position": "Central Midfield",
+              "stats": {
+                "goals": 8,
+                "assists": 6,
+                "appearances": 40,
+                "transfer_value": 120000000.0
+              }
+            },
+            {
+              "id": 304,
+              "name": "Aurélien Tchouaméni",
+              "age": 24,
+              "nationality": "France",
+              "position": "Defensive Midfield",
+              "stats": {
+                "goals": 2,
+                "assists": 2,
+                "appearances": 32,
+                "transfer_value": 90000000.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "Forwards",
+          "members": [
+            {
+              "id": 401,
+              "name": "Vinícius Júnior",
+              "age": 23,
+              "nationality": "Brazil",
+              "position": "Left Winger",
+              "stats": {
+                "goals": 24,
+                "assists": 9,
+                "appearances": 39,
+                "transfer_value": 180000000.0
+              }
+            },
+            {
+              "id": 402,
+              "name": "Rodrygo",
+              "age": 23,
+              "nationality": "Brazil",
+              "position": "Right Winger",
+              "stats": {
+                "goals": 14,
+                "assists": 8,
+                "appearances": 40,
+                "transfer_value": 100000000.0
+              }
+            },
+            {
+              "id": 403,
+              "name": "Jude Bellingham",
+              "age": 20,
+              "nationality": "England",
+              "position": "Attacking Midfield",
+              "stats": {
+                "goals": 23,
+                "assists": 13,
+                "appearances": 42,
+                "transfer_value": 200000000.0
+              }
+            },
+            {
+              "id": 404,
+              "name": "Joselu",
+              "age": 34,
+              "nationality": "Spain",
+              "position": "Centre Forward",
+              "stats": {
+                "goals": 16,
+                "assists": 4,
+                "appearances": 38,
+                "transfer_value": 12000000.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
